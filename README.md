@@ -39,13 +39,12 @@
 
 - [Jamstack](https://jamstack.org/)
 - [Jamstack resources](https://jamstack.org/resources/) - Videos and articles about Jamstack.
-
-* [JAMstack Radio](https://www.netlify.com/tags/podcast/)
-* [JAMstack Boilerplates](https://templates.netlify.com/)
-* [Netlify Blog](https://www.netlify.com/blog/)
-* [What is the JAMstack?](https://jamstack.org/#what)
-* [Why the JAMstack?](https://jamstack.org/#why)
-* [How do I get started?](https://jamstack.org/#how)
+- [JAMstack Radio](https://www.netlify.com/tags/podcast/)
+- [JAMstack Boilerplates](https://templates.netlify.com/)
+- [Netlify Blog](https://www.netlify.com/blog/)
+- [What is the JAMstack?](https://jamstack.org/#what)
+- [Why the JAMstack?](https://jamstack.org/#why)
+- [How do I get started?](https://jamstack.org/#how)
 
 ## Jamstack Sites Showcase
 
@@ -69,14 +68,10 @@
 - [Hugo](https://gohugo.io) - Hugo is a static site generator written in Go.
 - [Jekyll](https://jekyllrb.com) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.
 - [Hexo](https://hexo.io) - A fast, simple & powerful blog framework, powered by Node.js.
-- [Metalsmith](https://metalsmith.io) - An extremely simple, pluggable static site generator.
-- [Phenomic](https://phenomic.io/) - A modular website compiler.
 - [Gridsome](https://gridsome.org/) - Vue-powered static site generator for building CDN-ready websites for any Headless CMS, APIs or Markdown-files.
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 - [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
-
-_Visit [StaticGen](https://www.staticgen.com/)For a more complete list._
 
 ## CMS
 
