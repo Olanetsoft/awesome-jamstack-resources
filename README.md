@@ -1,4 +1,4 @@
-# Awesome-jamstack-tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/olanetsoft-approved-brightgreen.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+# Awesome-jamstack-resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/olanetsoft-approved-brightgreen.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 ![JAMSTACK IMG](https://res.cloudinary.com/cloudinary-marketing/image/upload/v1/Web_Assets/blog/JAMstack-Delivers-v1.png)
 
