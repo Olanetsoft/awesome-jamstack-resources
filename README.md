@@ -27,7 +27,6 @@
   - [E-commerce](#e-commerce)
   - [Search](#search)
   - [Database](#database)
-  - [Automation](#automation)
 - [Serverless](#serverless)
 - [Videos](#videos)
 - [Tutorials / Articles](#tutorials--articles)
@@ -107,17 +106,13 @@
 
 ### Forms
 
-- [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
-- [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 - [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
-- [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 - [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 - [Moltin](https://moltin.com/) - eCommerce API for developers.
 - [Trolley](https://trolley.link) - A shopping cart designed for the Jamstack.
@@ -128,7 +123,6 @@
 
 - [Algolia](https://www.algolia.com/) - The most reliable platform for building search into your business.
 - [Lunr](https://lunrjs.com/) - Search made simple (on frontend).
-- [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
 
 ### Database
 
@@ -140,11 +134,6 @@
 ### File management
 
 - [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
-
-### Automation
-
-- [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-- [DataFire](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 
