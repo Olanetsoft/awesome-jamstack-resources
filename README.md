@@ -58,6 +58,7 @@
 ## Platforms
 
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/jamstack-architecture) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 
 ## Static Site Generators
