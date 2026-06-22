@@ -89,6 +89,7 @@
 - [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 - [Ghost](https://ghost.org/) - A headless CMS for online publications
 - [Strapi](https://strapi.io) - The open source Headless CMS Front-End Developers love.
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted headless CMS built on Laravel + React with REST API v1, HMAC-signed webhooks, and official integrations for Next.js, Astro, SvelteKit, and Nuxt.
 
 ## API
 
