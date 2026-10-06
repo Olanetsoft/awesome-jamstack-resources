@@ -59,6 +59,7 @@
 
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
+- [Shipvela](https://shipvela.com) - Hosting for static React, Vite, Astro and HTML sites with GitHub or owner-reviewed MCP publishing, custom-domain connection and HTTPS; a free account includes 3 projects and 20 publishes per month.
 
 ## Static Site Generators
 
